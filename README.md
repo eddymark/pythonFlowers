@@ -3,11 +3,11 @@
 [Summary]
 ## Getting Started
 
-[clone the package and start adding flowers]
+clone the package and start adding flowers
 
 ### Prerequisites
 
-[Object oriented programing]
+Object oriented programing
 
 ## Built With
 
@@ -15,8 +15,10 @@
 
 ## Author
 
-[You]
+
 Eddy Vittini, find me at: https://github.com/eddymark/
+Audrey Washington, find me at: https://github.com/11awashington
+ 
 
 ## License
 
