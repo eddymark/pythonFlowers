@@ -1,6 +1,9 @@
 # Flower shop
 
-[Summary]
+ Flower Shop Ordering To Go -  Create a flower shop application which deals in flower objects and use those flower objects in a 
+ bouquet object which can then be sold. 
+ Keep track of the number of objects and when you may need to order more.
+
 ## Getting Started
 
 clone the package and start adding flowers
@@ -11,7 +14,7 @@ Object oriented programing
 
 ## Built With
 
-[Python]
+Python
 
 ## Author
 
